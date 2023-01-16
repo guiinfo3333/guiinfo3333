@@ -6,10 +6,6 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsvPhFcFdSjHMWNgSZqZhsgTKNLfMvMQsdpZlBJwdLNMjVgdShDRmWTrJqFpdbDdzWPmL"><img src="https://img.shields.io/badge/antonioguilhermeinfo@gmail.com-%23EA4335?logo=Gmail&style=flat-square&logoColor=white" /></a>
 
 <h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=guiinfo3333&theme=radical" height="170">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiinfo3333&layout=compact&theme=radical&show_icons=true)" height="170">
-</div><br>
 <div id="techs" align="center">
     <img src="https://img.shields.io/badge/HTML%205-%23E34F26?logo=HTML5&style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/CSS%203-%231572B6?logo=CSS3&style=for-the-badge&logoColor=white">
