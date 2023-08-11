@@ -7,16 +7,38 @@
 
 <h2>
 <div id="techs" align="center">
-    <img src="https://img.shields.io/badge/HTML%205-%23E34F26?logo=HTML5&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS%203-%231572B6?logo=CSS3&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=gray">
-    <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?logo=React&style=for-the-badge&logoColor=black">
-    <img src="https://img.shields.io/badge/NodeJS-%23339933?logo=Node.js&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=Linux&style=for-the-badge&logoColor=black">
-    <img src="https://img.shields.io/badge/Vscode-%23007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Insomnia-%235849BE?logo=Insomnia&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=Figma&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Flutter-%FFFFFF?logo=Flutter&style=for-the-badge&logoColor=white">
+    <H1> Linguagens </H1>
+    <div>
+       <img src="https://img.shields.io/badge/GOLAND%205-%23E34F26?logo=goland&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=gray">
+       <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/RUBY%205-%23E34F26?logo=ruby&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/PYTHON%203-%23E34F26?logo=python&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/DART%203-%23E34F26?logo=dart&style=for-the-badge&logoColor=white">
+    </div>
+     <H1> Frameworks </H1>
+     <div>
+        <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?logo=React&style=for-the-badge&logoColor=black">
+        <img src="https://img.shields.io/badge/NodeJS-%23339933?logo=Node.js&style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/Flutter-%FFFFFF?logo=Flutter&style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/RAILS%203-%23E34F26?logo=rubyonrails&style=for-the-badge&logoColor=white">
+     </div>
+     <H1> FERRAMENTAS E IDES </H1>
+     <div>
+       <img src="https://img.shields.io/badge/Vscode-%23007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/Insomnia-%235849BE?logo=Insomnia&style=for-the-badge&logoColor=white">
+     </div>
+     <H1> DESIGN </H1>
+     <div>
+       <img src="https://img.shields.io/badge/FIGMA%203-%23E34F26?logo=figma&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/PHOTOSHOP%203-%23E34F26?logo=adobephotoshop&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/ILUSTRATOR%203-%23E34F26?logo=adobeillustrator&style=for-the-badge&logoColor=white">
+     </div>
+      <H1> SO </H1>
+     <div>
+       <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=Linux&style=for-the-badge&logoColor=black">
+       <img src="https://img.shields.io/badge/MAC%20OS%20-%23E34F26?logo=macos&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/WINDOWS%20OS%20-%23E34F26?logo=windows&style=for-the-badge&logoColor=white">       
+     </div>
 </div>
 </h2><br>
