@@ -7,15 +7,18 @@
 
 <h2>
 <div id="techs" align="center">
-    <H3> Linguagens </H3>
-    <div>
-       <img src="https://img.shields.io/badge/GOLAND%205-%23E34F26?logo=goland&style=for-the-badge&logoColor=white">
-       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=gray">
-       <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&style=for-the-badge&logoColor=white">
-       <img src="https://img.shields.io/badge/RUBY%205-%23E34F26?logo=ruby&style=for-the-badge&logoColor=white">
-       <img src="https://img.shields.io/badge/PYTHON%203-%23E34F26?logo=python&style=for-the-badge&logoColor=white">
-       <img src="https://img.shields.io/badge/DART%203-%23E34F26?logo=dart&style=for-the-badge&logoColor=white">
+    <div style="display:flex">
+        <H3> Linguagens </H3>
+        <div>
+           <img src="https://img.shields.io/badge/GOLAND%205-%23E34F26?logo=goland&style=for-the-badge&logoColor=white">
+           <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=gray">
+           <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&style=for-the-badge&logoColor=white">
+           <img src="https://img.shields.io/badge/RUBY%205-%23E34F26?logo=ruby&style=for-the-badge&logoColor=white">
+           <img src="https://img.shields.io/badge/PYTHON%203-%23E34F26?logo=python&style=for-the-badge&logoColor=white">
+           <img src="https://img.shields.io/badge/DART%203-%23E34F26?logo=dart&style=for-the-badge&logoColor=white">
+        </div>
     </div>
+ 
      <H3> Frameworks </H3>
      <div>
         <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?logo=React&style=for-the-badge&logoColor=black">
