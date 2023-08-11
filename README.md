@@ -6,7 +6,7 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsvPhFcFdSjHMWNgSZqZhsgTKNLfMvMQsdpZlBJwdLNMjVgdShDRmWTrJqFpdbDdzWPmL"><img src="https://img.shields.io/badge/antonioguilhermeinfo@gmail.com-%23EA4335?logo=Gmail&style=flat-square&logoColor=white" /></a>
 
 <h2>
-<div id="techs" align="center">
+<div id="techs">
     <div style="display:flex">
         <H3> Linguagens </H3>
         <div>
