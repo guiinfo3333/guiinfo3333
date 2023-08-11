@@ -32,6 +32,12 @@
        <img src="https://img.shields.io/badge/Insomnia-%235849BE?logo=Insomnia&style=for-the-badge&logoColor=white">
        <img src="https://img.shields.io/badge/POSTMAN%20%20%20-%23E34F26?logo=postman&style=for-the-badge&logoColor=white">
      </div>
+      <H3> BANCOS DE DADOS </H3>
+     <div>
+       <img src="https://img.shields.io/badge/POSTGRES%20%20%20-%23E34F26?logo=postgresql&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/MYSQL%20%20%20-%23E34F26?logo=mysql&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/SQLITE%20%20%20-%23E34F26?logo=sqlite&style=for-the-badge&logoColor=white">
+     </div>
      <H3> DESIGN </H3>
      <div>
        <img src="https://img.shields.io/badge/FIGMA%203-%23E34F26?logo=figma&style=for-the-badge&logoColor=white">
