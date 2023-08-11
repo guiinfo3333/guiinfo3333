@@ -24,6 +24,7 @@
         <img src="https://img.shields.io/badge/NodeJS-%23339933?logo=Node.js&style=for-the-badge&logoColor=white">
         <img src="https://img.shields.io/badge/Flutter-%FFFFFF?logo=Flutter&style=for-the-badge&logoColor=white">
         <img src="https://img.shields.io/badge/RAILS%203-%23E34F26?logo=rubyonrails&style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/VUE%203%20%20-%23E34F26?logo=vuedotjs&style=for-the-badge&logoColor=white"> 
      </div>
      <H3> FERRAMENTAS E IDES </H3>
      <div>
