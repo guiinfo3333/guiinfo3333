@@ -30,6 +30,7 @@
      <div>
        <img src="https://img.shields.io/badge/Vscode-%23007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=white">
        <img src="https://img.shields.io/badge/Insomnia-%235849BE?logo=Insomnia&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/POSTMAN%20%20%20-%23E34F26?logo=postman&style=for-the-badge&logoColor=white">
      </div>
      <H3> DESIGN </H3>
      <div>
