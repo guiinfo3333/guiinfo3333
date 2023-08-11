@@ -43,5 +43,11 @@
        <img src="https://img.shields.io/badge/MAC%20OS%20-%23E34F26?logo=macos&style=for-the-badge&logoColor=white">
        <img src="https://img.shields.io/badge/WINDOWS%20OS%20-%23E34F26?logo=windows&style=for-the-badge&logoColor=white">       
      </div>
+    <H3> Deployment <H3>
+       <img src="https://img.shields.io/badge/AWS%20%20%20-%23E34F26?logo=amazonaws&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/HEROKU%20%20%20-%23E34F26?logo=heroku&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/DOCKER%20%20%20-%23E34F26?logo=docker&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/KUBERNETS%20%20%20-%23E34F26?logo=kubernetes&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/NGINX%20%20%20-%23E34F26?logo=nginx&style=for-the-badge&logoColor=white">  
 </div>
 </h2><br>
