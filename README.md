@@ -10,7 +10,7 @@
     <div style="display:flex">
         <H3> Linguagens </H3>
         <div>
-           <img src="https://img.shields.io/badge/GOLAND%205-%23E34F26?logo=goland&style=for-the-badge&logoColor=white">
+           <img src="https://img.shields.io/badge/GOLAND%20-%23E34F26?logo=goland&style=for-the-badge&logoColor=white">
            <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=gray">
            <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&style=for-the-badge&logoColor=white">
            <img src="https://img.shields.io/badge/RUBY%205-%23F7DF1E?logo=ruby&style=for-the-badge&logoColor=white">
