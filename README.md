@@ -16,6 +16,7 @@
            <img src="https://img.shields.io/badge/RUBY%205-%23F7DF1E?logo=ruby&style=for-the-badge&logoColor=white">
            <img src="https://img.shields.io/badge/PYTHON%203-%23E34F26?logo=python&style=for-the-badge&logoColor=white">
            <img src="https://img.shields.io/badge/DART%203-%23F7DF1E?logo=dart&style=for-the-badge&logoColor=white">
+           <img src="https://img.shields.io/badge/SHELL%20SCRIPT%20-%23E34F26?logo=powershell&style=for-the-badge&logoColor=white">
         </div>
     </div>
      <H3> Frameworks </H3>
@@ -56,5 +57,7 @@
        <img src="https://img.shields.io/badge/DOCKER%20%20%20-%23E34F26?logo=docker&style=for-the-badge&logoColor=white">
        <img src="https://img.shields.io/badge/KUBERNETS%20%20%20-%23007ACC?logo=kubernetes&style=for-the-badge&logoColor=white">
        <img src="https://img.shields.io/badge/NGINX%20%20%20-%23E34F26?logo=nginx&style=for-the-badge&logoColor=white">  
+       <img src="https://img.shields.io/badge/APPLE%20STORE%20-%23007ACC?logo=apple&style=for-the-badge&logoColor=white">
+       <img src="https://img.shields.io/badge/GOOGLE%20PLAY%20-%23E34F26?logo=googleplay&style=for-the-badge&logoColor=white">         
 </div>
 </h2><br>
