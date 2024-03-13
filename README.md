@@ -61,3 +61,5 @@
        <img src="https://img.shields.io/badge/GOOGLE%20PLAY%20-%23E34F26?logo=googleplay&style=for-the-badge&logoColor=white">         
 </div>
 </h2><br>
+
+![guiinfo3333 GitHub stats](https://github-readme-stats.vercel.app/api?username=guiinfo3333&show_icons=true&theme=dark)
