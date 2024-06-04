@@ -1,6 +1,6 @@
 <h1>Speak, I'm Guilherme👋️</h1>
 
-<h3>Doido para aprender alguma coisa nova ✍️✍️✍️</h3>
+<h3>eager to learn something new ✍️✍️✍️</h3>
 
 <a href="https://www.linkedin.com/in/ant%C3%B4nio-guilherme-1b0244191/"><img src="https://img.shields.io/badge/Ant%C3%B4nio%20Guilherme%20-%230A66C2?logo=Linkedin&style=flat-square" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsvPhFcFdSjHMWNgSZqZhsgTKNLfMvMQsdpZlBJwdLNMjVgdShDRmWTrJqFpdbDdzWPmL"><img src="https://img.shields.io/badge/antonioguilhermeinfo@gmail.com-%23EA4335?logo=Gmail&style=flat-square&logoColor=white" /></a>
