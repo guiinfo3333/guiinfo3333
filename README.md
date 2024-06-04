@@ -1,4 +1,4 @@
-<h1>Fala, Eu sou Guilherme👋️</h1>
+<h1>Speak, I'm Guilherme👋️</h1>
 
 <h3>Doido para aprender alguma coisa nova ✍️✍️✍️</h3>
 
@@ -8,7 +8,7 @@
 <h2>
 <div id="techs">
     <div style="display:flex">
-        <H3> Linguagens </H3>
+        <H3> Languages </H3>
         <div>
            <img src="https://img.shields.io/badge/GOLAND%20-%23E34F26?logo=goland&style=for-the-badge&logoColor=white">
            <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=gray">
@@ -27,13 +27,13 @@
         <img src="https://img.shields.io/badge/RAILS%203-%23F7DF1E?logo=rubyonrails&style=for-the-badge&logoColor=white">
         <img src="https://img.shields.io/badge/VUE%203%20%20-%23E34F26?logo=vuedotjs&style=for-the-badge&logoColor=white"> 
      </div>
-     <H3> Ferramentas e Ides </H3>
+     <H3> Tools and Ides </H3>
      <div>
        <img src="https://img.shields.io/badge/Vscode-%23007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=white">
        <img src="https://img.shields.io/badge/Insomnia-%235849BE?logo=Insomnia&style=for-the-badge&logoColor=white">
        <img src="https://img.shields.io/badge/POSTMAN%20%20%20-%23E34F26?logo=postman&style=for-the-badge&logoColor=white">
      </div>
-      <H3> Banco de Dados </H3>
+      <H3> Database </H3>
      <div>
        <img src="https://img.shields.io/badge/POSTGRES%20%20%20-%23007ACC?logo=postgresql&style=for-the-badge&logoColor=white">
        <img src="https://img.shields.io/badge/MYSQL%20%20%20-%23F7DF1E?logo=mysql&style=for-the-badge&logoColor=white">
